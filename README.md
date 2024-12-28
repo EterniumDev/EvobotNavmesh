@@ -7,11 +7,18 @@ The nav files are used in the Evobot NS addon
 
 
 
+## Nav file done but missing a working bin file
+ns_altair
+ns_ayumi
+
+
 ## Work in progress
 ns_11th_hr121
+ns_askr_a2
 
 
 ## Navmeshes needed
+ns_ayumi_e_b5
 
 
 
