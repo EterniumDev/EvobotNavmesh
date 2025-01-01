@@ -4,17 +4,18 @@ The bin files are used by the GoldSrcNavEditor, modified by github/RGreenlees
 The nav files are used in the Evobot NS addon
 
 ## Maps completed
-
+ns_veil (almost correct but subsector has a few issue offmesh spots)
 
 
 ## Nav file done but missing a working bin file
 ns_altair
-ns_ayumi
 
 
 ## Work in progress
 ns_11th_hr121
 ns_askr_a2
+ns_ayumi
+ns_lucid (nav file is bad, restart with new one)
 
 
 ## Navmeshes needed
