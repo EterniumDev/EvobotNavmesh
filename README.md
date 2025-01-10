@@ -15,6 +15,7 @@ ns_altair
 ns_11th_hr121
 ns_askr_a2
 ns_ayumi
+ns_ayumi_e_b5
 ns_lucid (nav file is bad, restart with new one)
 
 
