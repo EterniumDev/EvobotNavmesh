@@ -5,6 +5,7 @@ The nav files are used in the Evobot NS addon
 
 ## Maps completed
 ns_veil (almost correct but subsector has a few issue offmesh spots)
+ns_deathsiege_v4
 
 
 ## Nav file done but missing a working bin file
