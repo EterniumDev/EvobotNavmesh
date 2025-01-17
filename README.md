@@ -6,6 +6,12 @@ The nav files are used in the Evobot NS addon
 ## Maps completed
 ns_veil (almost correct but subsector has a few issue offmesh spots)
 ns_deathsiege_v4
+ns_crude_b3
+ns_ayumi_e_b5
+ns_machina
+ns_hera
+ns_eclipse
+ns_caged
 
 
 ## Nav file done but missing a working bin file
@@ -16,9 +22,9 @@ ns_altair
 ns_11th_hr121
 ns_askr_a2
 ns_ayumi
-ns_ayumi_e_b5
-ns_crude_b3
-ns_lucid (nav file is bad, restart with new one)
+
+
+ns_lucid (partially done)
 
 
 ## Navmeshes needed
