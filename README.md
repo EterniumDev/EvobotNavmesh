@@ -5,12 +5,19 @@ The nav files are used in the Evobot NS addon
 
 ## Maps completed
 ns_veil (almost correct but subsector has a few issue offmesh spots)
+
 ns_deathsiege_v4
+
 ns_crude_b3
+
 ns_ayumi_e_b5
+
 ns_machina
+
 ns_hera
+
 ns_eclipse
+
 ns_caged
 
 
@@ -20,7 +27,9 @@ ns_altair
 
 ## Work in progress
 ns_11th_hr121
+
 ns_askr_a2
+
 ns_ayumi
 
 
