@@ -1,6 +1,8 @@
 # EvobotNavmesh
  Repository for Natural Selection - Evobot navmesh and bin files
+
 The bin files are used by the GoldSrcNavEditor, modified by github/RGreenlees
+
 The nav files are used in the Evobot NS addon
 
 ## Maps completed
@@ -38,6 +40,10 @@ ns_lucid (partially done)
 
 ## Navmeshes needed
 
+ns_dust2
 
+ns_psixnighthunt_v01
+
+ns_ragnarok (no bin and nav file is buggy)
 
 
