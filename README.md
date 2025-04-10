@@ -35,6 +35,21 @@ change ladders to LADDER
 
 add offmesh links for Ladder ontop of and below a ladder
 
+## Testing your own navmeshes
+
+you'll frequently need to test the evobots in game to determine if your navmesh allows them to freely navigate the map
+
+in game use the commands
+
+`evobot addbot`
+`evobot addbot`
+`evobot debug drone`
+`cometome`
+
+this will make the evobots walk to your current position every time you type `cometome` in the console
+
+test out vents, general access for all hive locations, RTs and marine start
+
 ## Maps completed
 ns_veil (almost correct but subsector has a few issue offmesh spots)
 
