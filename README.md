@@ -5,6 +5,12 @@ The bin files are used by the GoldSrcNavEditor, modified by github/RGreenlees
 
 The nav files are used in the Evobot NS addon
 
+# Contribution
+
+Navmeshes created by Eternium and RGreenlees
+
+
+
 # Making your own navmeshes
 
 Download the following files into one folder (from this repo)
