@@ -37,7 +37,7 @@ This means that the AI will try to walk through them (unsuccessfully) use the Ed
 
 some areas will also show solid when they shouldnt be like Vines or Bushes that players can actually walk through, change these to ILLUSIONARY
 
-change ladders to LADDER
+Ensure you change the walls where ladders are to LADDER and add both ladder and wall climb and drop offmesh linkes adjacent to them
 
 add offmesh links for Ladder ontop of and below a ladder
 
