@@ -78,7 +78,9 @@ ns_ayumi
 
 ns_altair
 
-ns_lucid (partially done)
+ns_green_b1
+
+ns_lucid
 
 
 ## Navmeshes needed
