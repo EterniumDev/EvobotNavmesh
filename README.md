@@ -9,6 +9,9 @@ The nav files are used in the Evobot NS addon
 
 Navmeshes created by Eternium and RGreenlees
 
+Please if you're contributing your own navmeshes don't replace my navmeshes in the repo just create a subfolder or use a version number
+
+Also make sure to include both the bin files and nav files (for the same version) to ensure others can improve your navmeshes in the future
 
 
 # Making your own navmeshes
