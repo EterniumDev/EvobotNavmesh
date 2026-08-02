@@ -1,9 +1,10 @@
 # EvobotNavmesh
  Repository for Natural Selection - Evobot navmesh and bin files
+The nav files are used in the Evobot NS addon and are used in Recast to pathfind around the level
 
 The bin files are used by the GoldSrcNavEditor, modified by github/RGreenlees
 
-The nav files are used in the Evobot NS addon
+
 
 # Contribution
 
