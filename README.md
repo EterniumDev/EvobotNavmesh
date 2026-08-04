@@ -77,9 +77,15 @@ ns_eclipse
 
 ns_caged
 
+ns_eon
+
+ns_delta
+
 
 
 ## Work in progress
+ns_agora
+
 ns_11th_hr121
 
 ns_askr_a2
@@ -92,6 +98,14 @@ ns_green_b1
 
 ns_lucid
 
+ns_sechala
+
+ns_orbital
+
+ns_nothing_classic
+
+ns_lost
+
 
 ## Navmeshes needed
 
@@ -100,6 +114,8 @@ ns_dust2
 ns_psixnighthunt_v01
 
 ns_ragnarok (no bin and nav file is buggy)
+
+ns_shiva (no bin file)
 
 
 
