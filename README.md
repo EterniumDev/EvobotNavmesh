@@ -61,7 +61,7 @@ this will make the evobots walk to your current position every time you type `co
 test out vents, general access for all hive locations, RTs and marine start
 
 ## Maps completed
-ns_veil (almost correct but subsector has a few issue offmesh spots)
+ns_veil
 
 ns_deathsiege_v4
 
@@ -80,6 +80,8 @@ ns_caged
 ns_eon
 
 ns_delta
+
+ns_block_v2a
 
 
 
