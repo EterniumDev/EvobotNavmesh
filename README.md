@@ -85,6 +85,8 @@ ns_block_v2a
 
 ns_altair
 
+ns_canyon22xx
+
 
 
 ## Work in progress
