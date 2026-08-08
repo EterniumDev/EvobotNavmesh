@@ -83,6 +83,8 @@ ns_delta
 
 ns_block_v2a
 
+ns_altair
+
 
 
 ## Work in progress
@@ -93,8 +95,6 @@ ns_11th_hr121
 ns_askr_a2
 
 ns_ayumi
-
-ns_altair
 
 ns_green_b1
 
