@@ -87,6 +87,8 @@ ns_altair
 
 ns_canyon22xx
 
+ns_corona
+
 
 
 ## Work in progress
