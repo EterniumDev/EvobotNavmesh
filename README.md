@@ -112,6 +112,8 @@ ns_nothing_classic
 
 ns_lost
 
+ns_cbble
+
 
 ## Navmeshes needed
 
